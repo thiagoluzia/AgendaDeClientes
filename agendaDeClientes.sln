@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agendaDeClientes", "agendaDeClientes\agendaDeClientes.csproj", "{9C88F9B0-A53E-4E2E-AF66-8C5446919DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C88F9B0-A53E-4E2E-AF66-8C5446919DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C88F9B0-A53E-4E2E-AF66-8C5446919DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C88F9B0-A53E-4E2E-AF66-8C5446919DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C88F9B0-A53E-4E2E-AF66-8C5446919DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25CA32EA-57BC-4D4D-B04A-A46BE5D25403}
+	EndGlobalSection
+EndGlobal

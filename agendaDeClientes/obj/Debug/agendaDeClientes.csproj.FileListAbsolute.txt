@@ -1,0 +1,11 @@
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\bin\Debug\agendaDeClientes.exe.config
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\bin\Debug\agendaDeClientes.exe
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\bin\Debug\agendaDeClientes.pdb
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\obj\Debug\agendaDeClientes.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\obj\Debug\agendaDeClientes.frmCadastro.resources
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\obj\Debug\agendaDeClientes.frmInicial.resources
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\obj\Debug\agendaDeClientes.Properties.Resources.resources
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\obj\Debug\agendaDeClientes.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\obj\Debug\agendaDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\obj\Debug\agendaDeClientes.exe
+C:\Users\thiag\source\repos\agendaDeClientes\agendaDeClientes\obj\Debug\agendaDeClientes.pdb
